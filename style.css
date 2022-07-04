@@ -1,0 +1,18 @@
+body {
+    background-color: #36454F;
+    color : #f25;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    margin: 0%;
+    padding: 0%;
+    font-weight: bold;
+}
+.container{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#session {
+    color: #FFFF00;
+}
